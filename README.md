@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramesh Gyawali</h1>
 <h3 align="center">Proficient in Software development, data analysis, statistical analysis, hypothesis testing, customer behaviour analysis, & machine learning</h3>
-<img href="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshgyawali127&label=Profile%20views&color=0e75b6&style=flat" alt="rameshgyawali127" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshgyawali127" alt="rameshgyawali127" /></a> </p>
