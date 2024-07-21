@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshgyawali127" alt="rameshgyawali127" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twiter.com/u/rameshgyawali/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twiter.com/u/rameshgyawali/?logo=twitter&style=for-the-badge" alt="https://twiter.com/u/rameshgyawali/" /></a> </p>
+<img src="https://img.shields.io/twitter/follow/https://twiter.com/u/rameshgyawali/?logo=twitter&style=for-the-badge" alt="https://twiter.com/u/rameshgyawali/" /></a> </p>
 
 - 🔭 I’m currently working on **Stress Prediction using Transformer**
 
